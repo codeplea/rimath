@@ -10,6 +10,18 @@ Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation).
 This code is battle-tested and has been in use since 2013 at [Turnkey
 Telemetry](https://turnkeytelemetry.com/), both server-side and client-side.
 
+## Installation
+
+If using Node.js, you can easily install with npm:
+
+```
+npm install rimath
+```
+
+Otherwise, just copy `rimath.js` into your project. It also works fine
+client-side.
+
+
 ## Example Usage
 
 ```
