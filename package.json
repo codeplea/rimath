@@ -1,0 +1,24 @@
+{
+  "author": "Lewis Van Winkle",
+  "name": "rimath",
+  "version": "0.9.1",
+  "description": "Math Expression Evaluator",
+  "main": "rimath.js",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/codeplea/rimath"
+  },
+  "keywords": [
+      "math",
+      "shunting-yard",
+      "expression",
+      "parser",
+      "reverse polish notation",
+      "rpn",
+      "postfix notation"
+  ],
+  "license": "zlib",
+  "dependencies": {
+    "minctest": "0.0.x"
+  }
+}
